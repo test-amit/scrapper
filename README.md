@@ -42,11 +42,9 @@ npm install
 4. Install Playwright Browsers
 npx playwright install
 ▶️ Run Project
+
 node scraper.js
 
-OR
-
-npm start
 
 
 🔥 What Happens After Running
