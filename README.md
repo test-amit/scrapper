@@ -34,7 +34,7 @@ hotel-price-scraper/
 
 ⚙️ Installation
 1. Clone Repository
-git clone https://github.com/YOUR_USERNAME/hotel-price-scraper.git
+git clone https://github.com/test-amit/scrapper.git
 2. Navigate to Project
 cd hotel-price-scraper
 3. Install Dependencies
