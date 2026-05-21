@@ -41,6 +41,7 @@ cd hotel-price-scraper
 npm install
 4. Install Playwright Browsers
 npx playwright install
+
 ▶️ Run Project
 
 node scraper.js
@@ -66,3 +67,5 @@ Save a screenshot of results
 📸 Generated Files
 File	Description
 report.html	Interactive dashboard
+
+
